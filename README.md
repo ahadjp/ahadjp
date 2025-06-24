@@ -1,5 +1,5 @@
 ![strong passion for technology](https://pbs.twimg.com/profile_banners/2905138348/1664827663/1500x500)
-### Hi there 👋, My name is Md Abdul Ahad,
+### Hi there 👋 My name is Md Abdul Ahad
 #### strong passion for technology
 
 Currently residing and working in Japan, with a strong passion for technology and a clear goal of establishing a career as a full-stack engineer within the Japanese IT industry.
@@ -16,5 +16,5 @@ Skills: HTML / CSS/JS/PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ahadjp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahadjp//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/farhan.jillo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/farhan.jillo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/jillo_bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@Farhan.jillo03)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ahadjp&show_icons=true)  
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
