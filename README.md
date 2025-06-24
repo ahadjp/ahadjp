@@ -1,5 +1,5 @@
 ![strong passion for technology](https://pbs.twimg.com/profile_banners/2905138348/1664827663/1500x500)
-### Hi there 👋 My name is Md Abdul Ahad
+### Hi there 🙋🏻‍♂️ My name is Md Abdul Ahad
 #### strong passion for technology
 
 Currently residing and working in Japan, with a strong passion for technology and a clear goal of establishing a career as a full-stack engineer within the Japanese IT industry.
